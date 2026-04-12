@@ -1,4 +1,7 @@
-  
+ # Topic : Palindrome
+
+# Time Complexity: O(N)
+# Space Complexity: O(1) 
 def palindromeCheck(s):
     left = 0
     right = len(s) - 1
