@@ -7,8 +7,7 @@ def printNumbers(n):
         return
     else:
         printNumbers(n-1)
-        print(n,end="")
-        print("")
-printNumbers(5) 
+        print(n)  
+printNumbers(6) 
 
         
