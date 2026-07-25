@@ -22,7 +22,7 @@ def fib1(n1):
         cur1 = slast1 + last1
         slast1 = last1
         last1 = cur1
-        return cur1 
+    return cur1 
 print(fib1(5))
 
          
